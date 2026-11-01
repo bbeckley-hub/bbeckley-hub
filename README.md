@@ -20,7 +20,7 @@ BSc Biochemistry from **KNUST**. Self-taught bioinformatician. I take huge messy
 
 I break code and I fix code, and I will be honest, mostly I am touching things I should not be touching. It usually works out.
 
-I am resilient regardless of what you say. I always think comeback. Because I am **Culer**. **Blaugrana**. That Barcelona. Yes, this is a bioinformatics profile and yes, that is relevant to my personality.
+I am resilient regardless of what you say. I always think comeback. Because I am **Culer**💙❤️. **Blaugrana**💙❤️. That Barcelona. Yes, this is a bioinformatics profile and yes, that is relevant to my personality.
 
 ---
 
@@ -142,7 +142,6 @@ Watch the repos. It is going to be good.
 
 </div>
 
-> The snake needs a one-time GitHub Action in this repo. Follow the setup on `Platane/snk` and it will update itself forever, unlike my New Year resolutions.
 
 ---
 
@@ -186,7 +185,7 @@ Watch the repos. It is going to be good.
 
 <div align="center">
 
-*Visca el Barça. Visca the ESKAPEE gang. And may your pipelines always exit with code 0.*
+*Visca el Barça💙❤️. Visca the ESKAPEE gang. And may your pipelines always exit with code 0.*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=5D4037&height=120&section=footer&text=exit%200&fontSize=28&fontColor=F5E9DA&animation=fadeIn)
 

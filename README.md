@@ -21,7 +21,7 @@ BSc Biochemistry from **KNUST**. Self-taught bioinformatician. I take huge messy
 I break code and I fix code, and I will be honest, mostly I am touching things I should not be touching. It usually works out.
 
 
-I am resilient regardless of what you say. I always think comeback. Because I am **Culer**💙❤️ . **Blaugrana**💙❤️ . That Barcelona. Yes, this is a bioinformatics profile and yes, that is relevant to my personality. 
+I am resilient regardless of what you say. I always think comeback. Because I am **Culer**💙❤️. **Blaugrana**💙❤️. That Barcelona. Yes, this is a bioinformatics profile and yes, that is relevant to my personality. 
 
 ---
 
@@ -122,8 +122,8 @@ Watch the repos. It is going to be good.
 ### 🏆 The Trophy Shelf
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=bbeckley-hub&column=7&margin-w=8&no-bg=true&no-frame=true)
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=bbeckley-hub&column=5&margin-w=12&margin-h=12&no-bg=true&no-frame=true&theme=onedark)
 
 **Star history for SAURUS, because it is the one carrying the family name:**
 

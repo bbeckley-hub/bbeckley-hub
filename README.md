@@ -20,7 +20,8 @@ BSc Biochemistry from **KNUST**. Self-taught bioinformatician. I take huge messy
 
 I break code and I fix code, and I will be honest, mostly I am touching things I should not be touching. It usually works out.
 
-I am resilient regardless of what you say. I always think comeback. Because I am **Culer**💙❤️. **Blaugrana**💙❤️. That Barcelona. Yes, this is a bioinformatics profile and yes, that is relevant to my personality.
+
+I am resilient regardless of what you say. I always think comeback. Because I am **Culer**💙❤️ . **Blaugrana**💙❤️ . That Barcelona. Yes, this is a bioinformatics profile and yes, that is relevant to my personality. 
 
 ---
 

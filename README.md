@@ -95,8 +95,8 @@ The repos that did not get a pin slot but still do real damage.
 >**SAURUS-CLI** · the terminal side of SAURUS. Query 134k genomes, filter by lineage and geography, export accessions. Bundled data, no API keys, no network calls.
 [![SAURUS-CLI](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus-cli&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/saurus-cli)
 
->**saurus-db.org** · the domain and website behind SAURUS. Point, click, filter, export. The database’s public face.
-[![saurus-db.org](https://saurus-db.org)
+>**saurus-db.org** · the domain and website behind SAURUS. Point, click, filter, export. The database’s public face. [saurus-db.org](https://saurus-db.org)
+[![saurus-db.org](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/saurus)
 
 ---
 

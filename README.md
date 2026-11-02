@@ -56,7 +56,7 @@ If your lab works on ESKAPEE pathogens, antimicrobial resistance, virulence, or 
 ### 🛠️ The Pinned Arsenal (Six Slots, Six Pathogens)
 
 <div align="center">
-
+  
 **StaphScope** · unified MLST, spa, SCCmec, AMR, virulence, plasmid and capsule typing for *S. aureus*. MRSA’s least favourite pipeline.
 [![StaphScope](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=staphscope-typing-tool&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/staphscope-typing-tool)
 
@@ -83,19 +83,19 @@ If your lab works on ESKAPEE pathogens, antimicrobial resistance, virulence, or 
 
 The repos that did not get a pin slot but still do real damage.
 
-**EnteroScope** · tailored workflow for the *Enterobacter cloacae* complex. CREC analysis, HPC-friendly, mutation reporting included.
+>**EnteroScope** · tailored workflow for the *Enterobacter cloacae* complex. CREC analysis, HPC-friendly, mutation reporting included.
 [![EnteroScope](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=enteroscope&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/enteroscope)
 
-**ABYSS** · *A. baumannii* genomic resource. Pasteur MLST, IC lineages, capsule typing, carbapenemases, metadata, and one-click accession export.
+>**ABYSS** · *A. baumannii* genomic resource. Pasteur MLST, IC lineages, capsule typing, carbapenemases, metadata, and one-click accession export.
 [![ABYSS](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=abyss&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/abyss)
 
-**ECLIPSE** · *E. coli* surveillance resource. Stack filters by ST, phylogroup, serotype, or gene content and leave with a clean accession list.
+>**ECLIPSE** · *E. coli* surveillance resource. Stack filters by ST, phylogroup, serotype, or gene content and leave with a clean accession list.
 [![ECLIPSE](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=eclipse&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/eclipse)
 
-**SAURUS-CLI** · the terminal side of SAURUS. Query 134k genomes, filter by lineage and geography, export accessions. Bundled data, no API keys, no network calls.
+>**SAURUS-CLI** · the terminal side of SAURUS. Query 134k genomes, filter by lineage and geography, export accessions. Bundled data, no API keys, no network calls.
 [![SAURUS-CLI](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus-cli&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/saurus-cli)
 
-**saurus-db.org** · the domain and website behind SAURUS. Point, click, filter, export. The database’s public face.
+>**saurus-db.org** · the domain and website behind SAURUS. Point, click, filter, export. The database’s public face.
 [![saurus-db.org](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus-db.org&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/saurus-db.org)
 
 ---

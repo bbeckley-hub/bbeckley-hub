@@ -4,6 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=600&color=D7A86E&center=true&vCenter=true&width=800&lines=Biochemist+who+taught+computers+to+do+biology;ESKAPEE+pathogen+whisperer;Professional+Error-Message+Googler;Breaking+code%2C+fixing+code%2C+breaking+it+again;It+works+on+my+machine%E2%84%A2)](https://git.io/typing-svg)
 
+![Open to PhD](https://img.shields.io/badge/Open%20to-PhD%20Positions-D7A86E?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Microbiology%20%7C%20Infectious%20Disease-5D4037?style=for-the-badge)
+![Sub-focus](https://img.shields.io/badge/AMR%20%7C%20Genomic%20Surveillance-2B1B12?style=for-the-badge)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5414--1305-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5414-1305)
+
+![Currently Building](https://img.shields.io/badge/currently-building%20ARGUS-4EAA25?style=for-the-badge)
 ![Visitors](https://komarev.com/ghpvc/?username=bbeckley-hub&label=VISITORS&color=5D4037&style=for-the-badge)
 
 </div>
@@ -20,8 +26,7 @@ BSc Biochemistry from **KNUST**. Self-taught bioinformatician. I take huge messy
 
 I break code and I fix code, and I will be honest, mostly I am touching things I should not be touching. It usually works out.
 
-
-I am resilient regardless of what you say. I always think comeback. Because I am **Culer**💙❤️. **Blaugrana**💙❤️. That Barcelona. Yes, this is a bioinformatics profile and yes, that is relevant to my personality. 
+I am resilient regardless of what you say. I always think comeback. Because I am **Culer**💙❤️. **Blaugrana**💙❤️. That Barcelona. Yes, this is a bioinformatics profile and yes, that is relevant to my personality.
 
 ---
 
@@ -55,48 +60,65 @@ If your lab works on ESKAPEE pathogens, antimicrobial resistance, virulence, or 
 
 ### 🛠️ The Pinned Arsenal (Six Slots, Six Pathogens)
 
-<div align="center">
-  
-**StaphScope** · unified MLST, spa, SCCmec, AMR, virulence, plasmid and capsule typing for *S. aureus*. MRSA’s least favourite pipeline.
-[![StaphScope](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=staphscope-typing-tool&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/staphscope-typing-tool)
+- **StaphScope** · unified MLST, spa, SCCmec, AMR, virulence, plasmid and capsule typing for *S. aureus*. MRSA's least favourite pipeline.
 
-**EcoliTyper** · nine analyses, one automated run. *E. coli* genotyping that finishes in minutes instead of your entire afternoon.
-[![EcoliTyper](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=EcoliTyper&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/EcoliTyper)
+  <a href="https://github.com/bbeckley-hub/staphscope-typing-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=staphscope-typing-tool&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="StaphScope" /></a>
 
-**AcinetoScope** · seven analysis modules from FASTA to actionable report. Built for *A. baumannii* outbreak investigations and carbapenemase tracking.
-[![AcinetoScope](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=acinetoscope&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/acinetoscope)
+  ![StaphScope Stars](https://img.shields.io/github/stars/bbeckley-hub/staphscope-typing-tool?style=for-the-badge&color=D7A86E&label=StaphScope%20stars)
 
-**PseudoScope** · MLST, PAST serotyping, AMR, virulence, and a visualisation dashboard for *P. aeruginosa*. Runs locally so your data stays your data.
-[![PseudoScope](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=pseudoscope&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/pseudoscope)
+- **EcoliTyper** · nine analyses, one automated run. *E. coli* genotyping that finishes in minutes instead of your entire afternoon.
 
-**ESKAPE Web Platform** · seven species pipelines behind one browser interface. Live at [eskape.bio](https://eskape.bio), built so people without a terminal can still use the tools.
-[![ESKAPE Web Platform](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=eskape-web-platform&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/eskape-web-platform)
+  <a href="https://github.com/bbeckley-hub/EcoliTyper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=EcoliTyper&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="EcoliTyper" /></a>
 
-**SAURUS** · 134,299 *S. aureus* genomes, eleven typing and annotation modules, one queryable interface. Web at [saurus-db.org](https://saurus-db.org), CLI at `pip install saurus-cli`.
-[![SAURUS](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/saurus)
+  ![EcoliTyper Stars](https://img.shields.io/github/stars/bbeckley-hub/EcoliTyper?style=for-the-badge&color=D7A86E&label=EcoliTyper%20stars)
 
-</div>
+- **AcinetoScope** · seven analysis modules from FASTA to actionable report. Built for *A. baumannii* outbreak investigations and carbapenemase tracking.
+
+  <a href="https://github.com/bbeckley-hub/acinetoscope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=acinetoscope&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="AcinetoScope" /></a>
+
+  ![AcinetoScope Stars](https://img.shields.io/github/stars/bbeckley-hub/acinetoscope?style=for-the-badge&color=D7A86E&label=AcinetoScope%20stars)
+
+- **PseudoScope** · MLST, PAST serotyping, AMR, virulence, and a visualisation dashboard for *P. aeruginosa*. Runs locally so your data stays your data.
+
+  <a href="https://github.com/bbeckley-hub/pseudoscope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=pseudoscope&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="PseudoScope" /></a>
+
+  ![PseudoScope Stars](https://img.shields.io/github/stars/bbeckley-hub/pseudoscope?style=for-the-badge&color=D7A86E&label=PseudoScope%20stars)
+
+- **ESKAPE Web Platform** · seven species pipelines behind one browser interface. Live at [eskape.bio](https://eskape.bio), built so people without a terminal can still use the tools.
+
+  <a href="https://github.com/bbeckley-hub/eskape-web-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=eskape-web-platform&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="ESKAPE Web Platform" /></a>
+
+  ![ESKAPE Web Platform Stars](https://img.shields.io/github/stars/bbeckley-hub/eskape-web-platform?style=for-the-badge&color=D7A86E&label=ESKAPE%20Platform%20stars)
+
+- **SAURUS** · 134,299 *S. aureus* genomes, eleven typing and annotation modules, one queryable interface. Web at [saurus-db.org](https://saurus-db.org), CLI at `pip install saurus-cli`.
+
+  <a href="https://github.com/bbeckley-hub/saurus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="SAURUS" /></a>
+
+  ![SAURUS Stars](https://img.shields.io/github/stars/bbeckley-hub/saurus?style=for-the-badge&color=D7A86E&label=SAURUS%20stars)
 
 ---
 
 ### 🗄️ The Unpinned Vault
 
-The repos that did not get a pin slot but still do real damage.
+- **EnteroScope** · tailored workflow for the *Enterobacter cloacae* complex. CREC analysis, HPC-friendly, mutation reporting included.
 
->**EnteroScope** · tailored workflow for the *Enterobacter cloacae* complex. CREC analysis, HPC-friendly, mutation reporting included.
-[![EnteroScope](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=enteroscope&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/enteroscope)
+  <a href="https://github.com/bbeckley-hub/enteroscope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=enteroscope&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="EnteroScope" /></a>
 
->**ABYSS** · *A. baumannii* genomic resource. Pasteur MLST, IC lineages, capsule typing, carbapenemases, metadata, and one-click accession export.
-[![ABYSS](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=abyss&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/abyss)
+- **ABYSS** · *A. baumannii* genomic resource. Pasteur MLST, IC lineages, capsule typing, carbapenemases, metadata, and one-click accession export.
 
->**ECLIPSE** · *E. coli* surveillance resource. Stack filters by ST, phylogroup, serotype, or gene content and leave with a clean accession list.
-[![ECLIPSE](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=eclipse&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/eclipse)
+  <a href="https://github.com/bbeckley-hub/abyss"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=abyss&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="ABYSS" /></a>
 
->**SAURUS-CLI** · the terminal side of SAURUS. Query 134k genomes, filter by lineage and geography, export accessions. Bundled data, no API keys, no network calls.
-[![SAURUS-CLI](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus-cli&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/saurus-cli)
+- **ECLIPSE** · *E. coli* surveillance resource. Stack filters by ST, phylogroup, serotype, or gene content and leave with a clean accession list.
 
->**saurus-db.org** · the domain and website behind SAURUS. Point, click, filter, export. The database’s public face. [saurus-db.org](https://saurus-db.org)
-[![saurus-db.org](https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037)](https://github.com/bbeckley-hub/saurus)
+  <a href="https://github.com/bbeckley-hub/eclipse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=eclipse&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="ECLIPSE" /></a>
+
+- **SAURUS-CLI** · the terminal side of SAURUS. Query 134k genomes, filter by lineage and geography, export accessions. Bundled data, no API keys, no network calls.
+
+  <a href="https://github.com/bbeckley-hub/saurus-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus-cli&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="SAURUS-CLI" /></a>
+
+- **saurus-db.org** · the domain and website behind SAURUS. Point, click, filter, export. The database's public face. [saurus-db.org](https://saurus-db.org)
+
+  <a href="https://github.com/bbeckley-hub/saurus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bbeckley-hub&repo=saurus&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&icon_color=FFB74D&border_color=5D4037" alt="saurus-db.org" /></a>
 
 ---
 
@@ -122,7 +144,7 @@ Watch the repos. It is going to be good.
 ### 🏆 The Trophy Shelf
 
 <div align="center">
-  
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bbeckley-hub&column=5&margin-w=12&margin-h=12&no-bg=true&no-frame=true&theme=onedark)
 
 **Star history for SAURUS, because it is the one carrying the family name:**
@@ -139,10 +161,15 @@ Watch the repos. It is going to be good.
 
 [![Terminal Stats](https://github-stats-terminal-style-five.vercel.app/api/stats?username=bbeckley-hub&theme=tokyonight&headerStyle=mac&typingSpeed=60)](https://github.com/bbeckley-hub)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbeckley-hub&show_icons=true&bg_color=9B1B12&title_color=D7A26E&text_color=F8E9DA&icon_color=FFB74D&border_color=5D4057)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bbeckley-hub&background=2B1B12&border=5D4037&ring=D7A86E&fire=FFB74D&currStreakLabel=D7A86E&sideLabels=F5E9DA&dates=F5E7DA)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbeckley-hub&layout=compact&bg_color=2B1B12&title_color=D7A86E&text_color=F5E9DA&border_color=5D6037)
+
 ![Snake animation](https://raw.githubusercontent.com/bbeckley-hub/bbeckley-hub/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
 
 ---
 
@@ -179,6 +206,7 @@ Watch the repos. It is going to be good.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/brownbeckley9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brownbeckley9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brown-beckley-190315319/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=CYNOsqIAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5414-1305)
 
